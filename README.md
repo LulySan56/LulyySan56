@@ -1,10 +1,10 @@
-### Tudo bom? eu sou o Lulyy👋
+### Eai tudo bem? Eu sou o Lulyy👋
 ##
 
 - 🖤 Trabalhando com JavaScript
 - 🐱‍👤 Cursando Sistemas de informação
-- 🕒 Aprendendo Novas liguagens
-- ♒ 1,98M
+- 🕒 Aprendendo Novas linguagens
+- ♒ 1,98m
 
 ## 
 
