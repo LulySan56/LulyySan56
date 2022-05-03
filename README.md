@@ -13,7 +13,7 @@
   <a href="https://github.com/LulyySan56">
   <img height="35%" src="https://github-readme-stats.vercel.app/api?username=LulyySan56&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LulyySan56&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img align="right" alt="Rafa-pic" height="10%" style="border-radius:50px;" src="https://media.discordapp.net/attachments/726863887139602477/971172025928388659/Gif_site.gif?width=468&height=468">
+<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/726863887139602477/971172025928388659/Gif_site.gif?width=468&height=468">
 </div>
 
 ### Linguagens que eu domino
