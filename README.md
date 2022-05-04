@@ -6,7 +6,7 @@
 - 🐱‍👤 Cursando Sistemas de informação
 - 🕒 Aprendendo Novas linguagens
 - ♒ 1,98m
-- 💻 Experiencia em Vendas e Maketing
+- 💻 Experiencia em Vendas e Marketing
 
 ## 
 
