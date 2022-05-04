@@ -2,9 +2,11 @@
 ##
 
 - 🖤 Trabalhando com JavaScript
+- 🦴 Hardware pleno
 - 🐱‍👤 Cursando Sistemas de informação
 - 🕒 Aprendendo Novas linguagens
 - ♒ 1,98m
+- 💻 Experiencia em Vendas e Maketing
 
 ## 
 
