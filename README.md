@@ -1,4 +1,4 @@
-### Eai tudo bem? Eu sou o Lulyy👋
+### Eai tudo bem? Eu sou o Luly👋
 ##
 
 - 🖤 Trabalhando com JavaScript
